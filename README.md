@@ -53,3 +53,10 @@ To install in Mobile or computer , fork this repo then edit .env values then , y
 Clone this repo from:-  git clone https://github.com/devarajan-here/dev-chat-gpt-telegram-bot
 
 Then :-  node index.js
+
+
+
+How to Install:
+npm i
+nano .env (ADD TELEGRAM API AND OPENAI API)
+node index.js
