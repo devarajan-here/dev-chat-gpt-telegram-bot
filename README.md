@@ -57,6 +57,9 @@ Then :-  node index.js
 
 
 How to Install:
+
 npm i
+
 nano .env (ADD TELEGRAM API AND OPENAI API)
+
 node index.js
